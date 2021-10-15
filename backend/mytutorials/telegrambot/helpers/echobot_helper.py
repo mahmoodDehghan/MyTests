@@ -9,7 +9,7 @@ logging.basicConfig(
 )
 
 logger = logging.getLogger(__name__)
-updater = Updater("2071697099:AAHWpoWghxIG-ZB8o86UH7aeAAZUer0aQ44")
+updater = Updater("botToken")
 
 # Define a few command handlers. These usually take the two arguments update and
 # context.
