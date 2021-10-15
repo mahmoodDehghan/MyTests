@@ -8,6 +8,7 @@ authors = ["MahmoodDehghan"]
 python = "^3.10"
 Django = "^3.2.8"
 psycopg2-binary = "^2.9.1"
+python-telegram-bot = "^13.7"
 
 [tool.poetry.dev-dependencies]
 
